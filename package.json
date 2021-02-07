@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "config.json": "0.0.4",
     "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
     "mysql": "^2.16.0"
